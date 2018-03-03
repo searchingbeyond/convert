@@ -1,2 +1,3 @@
 # transfer
+学习JavaScript的时候，自己利用原生JavaScript进行DOM操作，做的一个小demo
 一个页面可以json和array之间的转换，还有url的编码与解码
