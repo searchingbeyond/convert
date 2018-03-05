@@ -1,5 +1,6 @@
+textarea,button{border-radius:10px;} 
 body { width:900px; margin:0 auto; text-align:center}
 #content { width:700px; height:250px;}
 #ul_btn li{ display:inline; }
-button{ width:100px; height:35px; border-radius:10px; background-color:orange; font-size:14px;color:white; margin-right:20px; }
+button{ width:100px; height:35px; background-color:orange; font-size:14px;color:white; margin-right:20px; }
 h1{ margin:30px auto; font-size:40px; color:grey; font-family:'Courier New', Courier, monospace; }
